@@ -1,5 +1,7 @@
 var i18nText = function() {
-  // Your future job begins here ...
+  var input = function(value){};
+  var output = input;
+  return output;
 }
 
 module.exports = {
