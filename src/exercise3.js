@@ -1,5 +1,10 @@
 var applyMap = function() {
-  // Your future job begins here ...
+var input = []
+if(input = []){
+  var output = []
+}
+
+return output;
 }
 
 module.exports = {
